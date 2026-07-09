@@ -1,0 +1,6 @@
+{
+  "name": "Rextract Pvt. Ltd.",
+  "description": "Website for Rextract Pvt. Ltd., Pune's leading waste management and recycling company, showcasing daily logs, plastic recycling plants, landfill diversion metrics, and corporate sustainability reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
